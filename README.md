@@ -3,18 +3,10 @@
 
 Sou desenvolvedor em formação, com interesse em desenvolvimento back-end, lógica de programação e banco de dados. Tenho buscado constantemente aprimorar minhas habilidades por meio de estudos e projetos práticos, sempre focado em evoluir tecnicamente e adquirir experiência na área de tecnologia. Sou dedicado, tenho facilidade de aprendizado e estou em busca de oportunidades para aplicar meus conhecimentos e crescer profissionalmente.
 
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/luis-gabriel-1b5940381">
+  <a href="https://www.linkedin.com/in/luis-gabriel-1b5940381" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 4px;">
   </a>
-  <a href="https://github.com/luissml">
-    <img src="https://img.shields.io/github/followers/luissml?style=for-the-badge&logo=github&color=0A1A2F&labelColor=132A4A" style="margin-right: 4px;">
-  </a>
-  <a href="https://github.com/luissml">
-    <img src="https://img.shields.io/github/stars/luissml?style=for-the-badge&logo=github&color=FFD700&labelColor=E6C200">
-  </a>
-</p>
 
 
 ---
