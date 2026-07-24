@@ -26,15 +26,3 @@ Sou desenvolvedor em formação, com interesse em desenvolvimento back-end, lóg
 <br/>
 <br/>
 
-### ↗️ Estatísticas
-<p align="left">
-  <img 
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luissml&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img 
-    height="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissml&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
-  />
-</p>
