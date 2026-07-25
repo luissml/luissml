@@ -5,7 +5,13 @@
   </a>
 </p>
 
-Sou desenvolvedor em formação, com interesse em desenvolvimento back-end, lógica de programação e banco de dados. Tenho buscado constantemente aprimorar minhas habilidades por meio de estudos e projetos práticos, sempre focado em evoluir tecnicamente e adquirir experiência na área de tecnologia. Sou dedicado, tenho facilidade de aprendizado e estou em busca de oportunidades para aplicar meus conhecimentos e crescer profissionalmente.
+Sou desenvolvedor em formação, estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento Full Stack e criação de soluções utilizando tecnologia.
+
+Tenho experiência acadêmica e prática com desenvolvimento de aplicações, integração entre front-end e banco de dados, além de projetos envolvendo levantamento de requisitos, prototipação e construção de sistemas.
+
+Atualmente, venho aprimorando meus conhecimentos em tecnologias como Java, Spring Boot, JavaScript, React, Node.js, Flutter, bancos de dados e computação em nuvem, buscando sempre aplicar boas práticas de programação e evoluir como desenvolvedor.
+
+Sou uma pessoa dedicada, com facilidade para aprender e gosto de transformar ideias em projetos. Busco uma oportunidade para aplicar meus conhecimentos, adquirir experiência profissional e crescer junto com uma equipe de tecnologia.
 
 ---
 
