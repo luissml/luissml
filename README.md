@@ -36,6 +36,12 @@ Sou desenvolvedor em formação, com interesse em desenvolvimento back-end, lóg
 
 ---
 
+### 🐍 Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/luissml/luissml/snake-output/snake.svg)
+
+---
+
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gabriel-1b5940381)
