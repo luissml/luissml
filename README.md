@@ -1,5 +1,9 @@
 # 👨‍💻 Luis Gabriel
-**`Desenvolvedor Full Stack`**
+<p align="left">
+  <a href="https://github.com/luissml">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0077B5&multiline=false&width=435&height=35&lines=Desenvolvedor+Full+Stack" alt="Desenvolvedor Full Stack" />
+  </a>
+</p>
 
 Sou desenvolvedor em formação, com interesse em desenvolvimento back-end, lógica de programação e banco de dados. Tenho buscado constantemente aprimorar minhas habilidades por meio de estudos e projetos práticos, sempre focado em evoluir tecnicamente e adquirir experiência na área de tecnologia. Sou dedicado, tenho facilidade de aprendizado e estou em busca de oportunidades para aplicar meus conhecimentos e crescer profissionalmente.
 
