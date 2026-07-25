@@ -36,9 +36,7 @@ Sou desenvolvedor em formação, com interesse em desenvolvimento back-end, lóg
 
 ---
 
-### 🐍 Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/luissml/luissml/snake-output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/luissml/luissml/snake-output/snake-dark.svg)
 
 ---
 
