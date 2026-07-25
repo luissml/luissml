@@ -1,7 +1,7 @@
 # 👨‍💻 Luis Gabriel
 <p align="left">
   <a href="https://github.com/luissml">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0077B5&multiline=false&width=435&height=35&lines=Desenvolvedor+Full+Stack" alt="Desenvolvedor Full Stack" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&multiline=false&width=435&height=35&lines=Desenvolvedor+Full+Stack" alt="Desenvolvedor Full Stack" />
   </a>
 </p>
 
